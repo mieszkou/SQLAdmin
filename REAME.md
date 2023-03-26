@@ -31,3 +31,13 @@ Do instalacji:
 - SQLSRV_Engine DomainUser  brak
 - SQLSRV_Agent  DomainUser  brak
 - ...           DomainUser  brak
+
+## Szyfrowanie komunikacji
+
+## Budowa SQL server
+
+- Sieć
+- DB_Endine
+- AS
+- SQLOS
+- 
